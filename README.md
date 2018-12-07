@@ -7,3 +7,5 @@ communication will probably only go 1 way, pi to chip.
 
 Step 1 will be to get comm going between 2 pi's. The code wil be called recv01.py and 
 send01.py.
+
+This line is just a git test.
